@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biology on </title>
+    <link>http://localhost:1313/categories/biology/</link>
+    <description>Recent content in Biology on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excretion and Homeostasis</title>
+      <link>http://localhost:1313/blog/markdown_syntax/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/markdown_syntax/</guid>
+      <description>Skin The skin is used to excrete urea, excess water, salts, ammonia. Functions of the skin. Protection of the underlying tissues from entry of microorganisms, physical damage and ultra violet rays from the sun. Regulation of body temperature/thermoregulation. Excretion. Reception of stimuli of heat, cold, pain, touch and pressure. 5. Synthesis of vitamin D. Storage of fats.&#xA;ADAPTATION TO FUNCTION OF DIFFERENT PARTS OF THE SKIN The skin consists of two main layers: epidermis and dermis.</description>
+    </item>
+  </channel>
+</rss>
