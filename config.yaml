@@ -68,7 +68,7 @@ params:
     icon: fas fa-graduation-cap
     list:
       - degree: Ph.D. in Subject
-        college: University of Nairobi
+        college: University of Egerton
         dates: 2013 - 2018
         thesis_title: "Effect of humans on other humans: a study of human behavior."
         thesis_url: "#"
@@ -78,7 +78,7 @@ params:
         thesis_title: "Effect of humans on other humans: a study of human behavior."
         thesis_url: "#"
       - degree: B.S. in Subject
-        college: University of Nairobi
+        college: University of Egerton
         dates: 2004 - 2009
 
   skill:
