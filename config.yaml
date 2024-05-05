@@ -58,7 +58,7 @@ params:
     list:
       - position: Biology/Agriculture
         dates: 2013 - 2019
-        company: Kangaroo Boys
+        company: Kangaru Boys
 
       - position: Biology/Agriculture
         dates: 2019 - *present*
