@@ -1,11 +1,11 @@
-baseURL: https://mucira.pages.dev/
+baseURL: https://aafu.pages.dev/
 languageCode: en-us
 build:
   writeStats: true
 params:
   title: Mucira Munene
-  author: Mucira Munene
-  description: Website title
+  author: Muchira Munene
+  description: Mucira Portfolio
   copyright: >-
     powered by [hugo](https://gohugo.io/) & deployed on
     [Cloudflare](https://www.cloudflare.com/)
@@ -59,7 +59,6 @@ params:
       - position: Biology/Agriculture
         dates: 2013 - 2019
         company: Kangaru Boys
-
       - position: Biology/Agriculture
         dates: 2019 - *present*
         company: Githunguchu Secondary
@@ -67,19 +66,16 @@ params:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of Egerton
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
+      - degree: B.e.d Science
+        college: Eqerton University
+        dates: 2009 - 2013
+        thesis_title: ""
         thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
+      - degree: High School Level
+        college: Kerugoya Boys
+        dates: 2004 - 2007
+        thesis_title: ""
         thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of Egerton
-        dates: 2004 - 2009
 
   skill:
     title: Skills
